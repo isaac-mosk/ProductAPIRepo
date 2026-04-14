@@ -3,15 +3,21 @@
   "WorkspaceRootPath": "C:\\Users\\gbm4\\source\\repos\\ProductsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFE3B7DE-2865-43E8-90CA-09ECDCA0A5C4}|..\\StoreApp.Tests\\StoreApp.Tests.csproj|c:\\users\\gbm4\\source\\repos\\storeapp.tests\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1788CCBD-59D0-469A-8014-DC525775AF0C}|ProductsApp.csproj|c:\\users\\gbm4\\source\\repos\\productsapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1788CCBD-59D0-469A-8014-DC525775AF0C}|ProductsApp.csproj|C:\\Users\\gbm4\\source\\repos\\ProductsApp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1788CCBD-59D0-469A-8014-DC525775AF0C}|ProductsApp.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1788CCBD-59D0-469A-8014-DC525775AF0C}|ProductsApp.csproj|c:\\users\\gbm4\\source\\repos\\productsapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ProductsApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1788CCBD-59D0-469A-8014-DC525775AF0C}|ProductsApp.csproj|C:\\Users\\gbm4\\source\\repos\\ProductsApp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1788CCBD-59D0-469A-8014-DC525775AF0C}|ProductsApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE3B7DE-2865-43E8-90CA-09ECDCA0A5C4}|..\\StoreApp.Tests\\ProductsApp.Tests.csproj|c:\\users\\gbm4\\source\\repos\\storeapp.tests\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1788CCBD-59D0-469A-8014-DC525775AF0C}|ProductsApp.csproj|c:\\users\\gbm4\\source\\repos\\productsapp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,7 +27,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,26 +47,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ProductsApp",
+              "DocumentMoniker": "C:\\Users\\gbm4\\source\\repos\\ProductsApp\\ProductsApp.csproj",
+              "RelativeDocumentMoniker": "ProductsApp.csproj",
+              "ToolTip": "C:\\Users\\gbm4\\source\\repos\\ProductsApp\\ProductsApp.csproj",
+              "RelativeToolTip": "ProductsApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T21:45:00.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TestSimpleProductController.cs",
               "DocumentMoniker": "C:\\Users\\gbm4\\source\\repos\\StoreApp.Tests\\TestSimpleProductController.cs",
               "RelativeDocumentMoniker": "..\\StoreApp.Tests\\TestSimpleProductController.cs",
               "ToolTip": "C:\\Users\\gbm4\\source\\repos\\StoreApp.Tests\\TestSimpleProductController.cs",
               "RelativeToolTip": "..\\StoreApp.Tests\\TestSimpleProductController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCkAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwBkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T23:18:14.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T23:18:14.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\gbm4\\source\\repos\\ProductsApp\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\gbm4\\source\\repos\\ProductsApp\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwA4AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T23:00:07.533Z",
               "EditorCaption": ""
@@ -73,10 +90,9 @@
               "RelativeDocumentMoniker": "Models\\Product.cs",
               "ToolTip": "C:\\Users\\gbm4\\source\\repos\\ProductsApp\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T22:58:17.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-24T22:58:17.623Z"
             }
           ]
         },

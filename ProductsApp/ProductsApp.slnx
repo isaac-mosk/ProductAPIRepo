@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="../StoreApp.Tests/ProductsApp.Tests.csproj" />
-  <Project Path="ProductsApp.csproj" />
+  <Project Path="../StoreApp.Tests/ProductsApp.Tests.csproj" Id="cfe3b7de-2865-43e8-90ca-09ecdca0a5c4" />
+  <Project Path="ProductsApp.csproj" Id="1788ccbd-59d0-469a-8014-dc525775af0c" />
 </Solution>
